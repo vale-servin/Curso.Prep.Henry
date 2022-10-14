@@ -1,0 +1,57 @@
+h1{
+    color: darkred;
+}
+
+
+#thirdDiv img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: cyan;
+    padding: 50px;
+    border-width: thick ;
+    border-style: solid;
+    border-color: darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+
+#spanId{
+    font-size:18px ;
+    margin: 50px;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vector-premium/comida-pascua-huevo-clara-huevo-o-yema-saludable-huevera-o-tortilla-cocina-sarten-ilustracion-desayuno_109709-1142.jpg?w=900) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.divClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
